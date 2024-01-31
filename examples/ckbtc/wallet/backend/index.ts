@@ -11,7 +11,7 @@ import {
     $update,
     Variant
 } from 'azle';
-import { ICRC, ICRC1TransferError } from 'azle/canisters/icrc';
+import { ICRC, ICRC1TransferError } from '../../../../../azle/canisters/icrc';
 
 import { Minter, UpdateBalanceResult } from './minter';
 
